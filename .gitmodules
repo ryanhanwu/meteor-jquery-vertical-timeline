@@ -1,0 +1,3 @@
+[submodule "lib/jquery-vertical-timeline"]
+	path = lib/jquery-vertical-timeline
+	url = https://github.com/ChubbyNinja/jquery-vertical-timeline.git
