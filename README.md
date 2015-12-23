@@ -1,3 +1,6 @@
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:jquery-vertical-timeline)](https://atmospherejs.com/ryanwu/jquery-vertical-timeline)
+
+
 # meteor-jquery-vertical-timeline
 
 ## About
